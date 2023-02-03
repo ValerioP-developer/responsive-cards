@@ -1,2 +1,2 @@
 # responsive-cards
-Different approaches to develop cards
+Experiment different approaches to develop cards
